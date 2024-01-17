@@ -8,10 +8,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25px"/>
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" height="25px"/>
+  <img src="https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white" height="25px"/>
+  
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermiablog)
 </div>
 
 ### Introduction
@@ -20,5 +19,7 @@
 - 🌱 [Welcome to my blog!](https://hermiablog.com/)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue">
+<a href="https://github.com/Yuvrajsinh05">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=merko" alt="hermia's github top languages" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=merko" alt="hermia's github stats" />
+</a>
 </div>
