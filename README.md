@@ -1,9 +1,4 @@
 ## 😄Hi there hermia👋
-### Introduction
-- I love coding.
-- I love Front End technologys.
-- I love open source spirit.
-- Hope to learn more techniques in open source projects.
 <div align=center>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
@@ -16,8 +11,18 @@
 </p>
 </div>
 
+### Introduction
+<div width=100%>
+  <div width="50%" float="left">
+   - I love coding.
+   - I love open source spirit. 
+  </div>
+  <div width="50%" float="right">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue)
+  </div>
+</div>
 ### Analysis
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermiablog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermiablog)
 
 <!--
 **hermiablog/hermiablog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
