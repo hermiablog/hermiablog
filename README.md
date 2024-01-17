@@ -9,28 +9,16 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25px"/>
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" height="25px"/>
 </p>
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermiablog)
+</div>
+
 ### Introduction
 - ✍️ I love coding.
 - 🍻 I love open source spirit.
-- 🌱 my blog：https://hermiablog.com/
+- 🌱 [Welcome to my blog!](https://hermiablog.com/)
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue">
-
-
-<!--
-**hermiablog/hermiablog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
