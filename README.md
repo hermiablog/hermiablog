@@ -11,18 +11,14 @@
 </p>
 </div>
 
-### Introduction
-<div width=100%>
-  <div width="50%" float="left">
-   - I love coding.
-   - I love open source spirit. 
-  </div>
-  <div width="50%" float="right">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue)
-  </div>
-</div>
-### Analysis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermiablog)
+### Introduction
+- ✍️ I love coding.
+- 🍻 I love open source spirit.
+- 🌱 my blog：https://hermiablog.com/
+
+<img src="https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue">
+
 
 <!--
 **hermiablog/hermiablog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
