@@ -1,10 +1,10 @@
 <div align=center>
 ## 😄Hi there hermia👋
 ### Introduction
-I love coding.
-I love Front End technologys.
-I love open source spirit.
-Hope to learn more techniques in open source projects. 
+- I love coding.
+- I love Front End technologys.
+- I love open source spirit.
+- Hope to learn more techniques in open source projects. 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
