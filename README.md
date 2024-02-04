@@ -18,8 +18,3 @@
 - 🍻 I love open source spirit.
 - 🌱 [Welcome to my blog!](https://hermiablog.com/)
 
-<div align="center">
-<a href="https://github.com/Yuvrajsinh05">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=merko" alt="hermia's github top languages" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=merko" alt="hermia's github stats" />
-</a>
-</div>
